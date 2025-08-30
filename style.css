@@ -21,7 +21,7 @@ body{
     position: relative;
     width: 444px;
     height: 555px;
-    background: rgb(74, 107, 164);
+    background: rgb(74, 107, 100);
     border-radius: 16px;
     background-color:rgba(0, 0, 0, 0.3);
     backdrop-filter: blur(30px);
@@ -101,3 +101,4 @@ body{
     font-weight: 500;
     text-transform: capitalize;
 }
+
